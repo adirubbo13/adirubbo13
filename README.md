@@ -1,4 +1,9 @@
 ### Hi there 👋
+## Introdutcion
+I am currently a senior at St. John Fisher university studying and practicing in the expanding world of computer and data science. I am interested in database development, web development, advanced data analysis, as well as business-to-business software development. I am currently exploring the many pathways of analytics as they cross into areas of study such as healthcare, advertising, and finance. I am also interested in both front-end and back-end web design.
+I am on the track and cross-country teams at St. John Fisher, as well as a peer math tutor for various statistics and computer science courses. Throughout my education at St. John Fisher, I have had the privilege of working with clients to produce work in a professional-like setting. 
+## View My Portfolio:
+adirubbo13.github.io
 
 <!--
 **adirubbo13/adirubbo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
