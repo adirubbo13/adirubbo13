@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony DiRubbo</h1>
 <h3 align="center">A passionate data analyst and web developer</h3>
 
-- 🔭 I’m currently working on Harvard CS50 certificares
+- 🔭 I’m currently pursuing my Masters at Syracuse University (Go Orange!)
 
 - 👨‍💻 All of my projects are available at [https://adirubbo13.github.io](https://adirubbo13.github.io)
 
