@@ -87,4 +87,4 @@ Deep learning pipeline using **ResNet-50 transfer learning**.
 
 ---
 
-⭐️ Feel free to explore my repositories — many are academic, experimental, or actively evolving.
+⭐️ Feel free to explore my repositories - many are academic, experimental, or actively evolving.
