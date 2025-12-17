@@ -20,9 +20,9 @@ Graduate student and applied engineer building AI-driven applications across mob
 ---
 
 ## Skills
-**ML and Programming:** Python, PyTorch, TensorFlow, scikit-learn, Swift, Java, C and C++, R  
+**ML and Programming:** Python, PyTorch, TensorFlow, scikit-learn, Swift, Java, C and C++, R, JavaScript  
 **Data and Cloud:** SQL, Snowflake, dbt Cloud, MongoDB, Azure, Docker, vector databases  
-**Apps and Analytics:** iOS (SwiftUI), Flask, JavaScript, Power BI, Tableau, Excel (VBA)
+**Apps and Analytics:** Power BI, Tableau, Excel (VBA)
 
 ---
 
