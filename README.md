@@ -1,8 +1,7 @@
 # Hi, I'm Tony DiRubbo
 
 M.S. Applied Data Science student at Syracuse University  
-AI, data pipelines, and applied machine learning  
-🌐 https://adirubbo13.github.io
+https://adirubbo13.github.io
 
 <p>
   <img src="https://img.shields.io/badge/Python-ML%20%26%20Data-blue?logo=python" />
